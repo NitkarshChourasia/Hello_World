@@ -17,3 +17,9 @@ what If I make it interactive or so?
 I will be like a interactive blogging app, right?
 A new kind of revolution, hehe.
 Just to help people that's it.
+
+4. Create a mind map of languages(obviously common ones).
+  (i.) Write down their applications.
+ (ii.) With the framework being used.
+(iii.) Creator who made it.
+(iv.)  Where it is used most extensively.
